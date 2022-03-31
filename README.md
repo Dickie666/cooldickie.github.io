@@ -1,2 +1,1 @@
-# cooldickie.github.io
-A project implementing microsoft authentication
+# linjieliu123.github.io
